@@ -24,7 +24,7 @@ This project demonstrates:
 ## Project structure
 
 ```text
-reli_inventory_automation/
+inventory_automation/
 ├── app/
 │   ├── api/
 │   │   └── routes.py
