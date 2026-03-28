@@ -1,0 +1,9 @@
+sku,product_name,category,current_stock,safety_stock,lead_time_days,last_7d_sales,supplier,max_capacity
+SKU-1001,Wireless Mouse,Electronics,14,12,5,46,SupplierA,180
+SKU-1002,Bluetooth Keyboard,Electronics,62,15,6,21,SupplierA,150
+SKU-1003,Desk Lamp,Home,8,10,4,30,SupplierB,120
+SKU-1004,Water Bottle,Sports,120,20,8,28,SupplierC,300
+SKU-1005,Yoga Mat,Sports,18,12,7,24,SupplierC,160
+SKU-1006,Notebook Set,Office,3,8,3,18,SupplierD,140
+SKU-1007,Phone Stand,Electronics,0,10,5,35,SupplierA,200
+SKU-1008,Coffee Mug,Home,44,10,4,14,SupplierB,130
